@@ -29,7 +29,7 @@ Aplicación que automatiza procesos de venta y reportes con gráficos en tiempo 
 ## 💡 Frase favorita
 > *“El código también puede ser arte.”*
 
-## 📬 Contacto
+## 📬 Puedes contactarme en:
 
 <p align="center">
   <a href="mailto:roy.garcia.27@unsch.edu.pe">
