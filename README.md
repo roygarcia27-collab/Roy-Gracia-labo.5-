@@ -21,3 +21,11 @@ Aplicación que automatiza procesos de venta y reportes con gráficos en tiempo 
 **Tecnologías:** React, Node.js, PostgreSQL
 
 ---
+## 🏅 Certificaciones
+- Google Cloud Fundamentals (2024)
+- AWS Academy Graduate (2025)
+
+---
+## 💡 Frase favorita
+> *“El código también puede ser arte.”*
+
