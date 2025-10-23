@@ -29,3 +29,19 @@ Aplicación que automatiza procesos de venta y reportes con gráficos en tiempo 
 ## 💡 Frase favorita
 > *“El código también puede ser arte.”*
 
+## 📬 Contacto
+
+<p align="center">
+  <a href="mailto:roy.garcia.27@unsch.edu.pe">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/roygarcia27-collab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.facebook.com/roymanuelgarciahuaman" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
